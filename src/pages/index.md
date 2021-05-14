@@ -2,19 +2,15 @@
 templateKey: index-page
 title: To Cook at Home
 image: /img/luke-johnson-viuggid9ysy-unsplash.jpg
-heading: Great coffee with a conscience
+heading: So we starting doing theme nights...
 subheading: Recipes for date nights in
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+  title: Make Saturday your favorite night of the week, even if you don't have a
+    sitter.
+  description: When we had kids, Saturday nights went from date night out to what
+    on earth can we do now?
+description: And making things we thought were only things we could have at
+  restaurants, because "who makes that at home?"
 intro:
   blurbs:
     - image: /img/coffee.png
