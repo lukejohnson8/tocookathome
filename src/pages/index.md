@@ -13,7 +13,7 @@ description: And making things we thought were only things we could have at
   restaurants, because "who makes that at home?"
 intro:
   blurbs:
-    - image: https://images.unsplash.com/photo-1560035285-64808ba47bda?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=468&q=80
+    - image: /img/coffee-gear.png
       text: Lasagna completely from scratch. Homemade smoked ricotta, homemade
         mozzarella, sauce from fresh veggies, and fresh Italian sausage.
     - image: /img/coffee-gear.png
