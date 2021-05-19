@@ -13,19 +13,11 @@ description: And making things we thought were only things we could have at
   restaurants, because "who makes that at home?"
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+    - image: https://images.unsplash.com/photo-1560035285-64808ba47bda?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=468&q=80
+      text: Lasagna completely from scratch. Homemade smoked ricotta, homemade
+        mozzarella, sauce from fresh veggies, and fresh Italian sausage.
+    - image: /img/luke-johnson-oapjh0fmseg-unsplash.jpg
+      text: Guacamole Chicken Biscuit
     - image: /img/tutorials.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
