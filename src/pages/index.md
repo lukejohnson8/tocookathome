@@ -16,7 +16,7 @@ intro:
     - image: https://images.unsplash.com/photo-1560035285-64808ba47bda?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=468&q=80
       text: Lasagna completely from scratch. Homemade smoked ricotta, homemade
         mozzarella, sauce from fresh veggies, and fresh Italian sausage.
-    - image: /img/luke-johnson-oapjh0fmseg-unsplash.jpg
+    - image: /img/coffee-gear.png
       text: Guacamole Chicken Biscuit
     - image: /img/tutorials.png
       text: >
